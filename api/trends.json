@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T01:01:40.214177+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-22T02:02:32.674141+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 02时02分]"
         }
       ]
     },
@@ -29,11 +30,12 @@
           "url": "https://wallstreetcn.com/livenews/3041424",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 02时02分]"
         }
       ]
     }
