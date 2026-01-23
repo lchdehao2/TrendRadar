@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T05:28:07.353028+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-01-24T06:24:36.094841+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "ranks": [
             5,
             9,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 05时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 06时24分]"
         },
         {
           "title": "美国考虑用海军实施海上封锁，从而阻挠谷歌进口石油。（Politico）",
