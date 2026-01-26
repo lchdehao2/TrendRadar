@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-26T12:20:03.815539+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2026-01-26T13:37:14.488902+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 13时37分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/lchdehao2/TrendRadar/img/news.jpg"
 }
