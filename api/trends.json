@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T16:40:56.644648+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-01-26T17:40:55.982330+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时46分 ~ 16时40分]"
+          "appearance_count": 4,
+          "time_info": "[14时46分 ~ 17时40分]"
         },
         {
           "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
