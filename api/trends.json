@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T22:37:12.240338+08:00",
-  "total_titles_processed": 1971,
+  "generated_at": "2026-01-27T23:37:12.532794+08:00",
+  "total_titles_processed": 2065,
   "failed_sources": [],
   "trends": [
     {
@@ -38,7 +38,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
         },
@@ -103,8 +103,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时40分 ~ 22时37分]"
+          "appearance_count": 10,
+          "time_info": "[16时40分 ~ 23时37分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -115,8 +115,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 22时37分]"
+          "appearance_count": 5,
+          "time_info": "[21时02分 ~ 23时37分]"
+        },
+        {
+          "title": "如何评价 DeepSeek-OCR-2 模型？",
+          "url": "https://www.zhihu.com/question/1999468225642119587",
+          "source": "知乎",
+          "ranks": [
+            13,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时02分 ~ 23时37分]"
         },
         {
           "title": "DeepSeek开源OCR 2模型",
@@ -130,18 +143,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时33分 ~ 21时02分]"
-        },
-        {
-          "title": "如何评价 DeepSeek-OCR-2 模型？",
-          "url": "https://www.zhihu.com/question/1999468225642119587",
-          "source": "知乎",
-          "ranks": [
-            13,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 22时37分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
@@ -215,7 +216,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时37分"
         }
