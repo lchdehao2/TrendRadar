@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T16:40:37.333960+08:00",
-  "total_titles_processed": 1415,
+  "generated_at": "2026-01-27T17:39:42.435719+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
@@ -69,19 +69,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时33分 ~ 16时40分]"
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 17时39分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
           "url": "https://wallstreetcn.com/articles/3764241",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时39分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
