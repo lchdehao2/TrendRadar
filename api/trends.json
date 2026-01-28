@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T10:09:15.326318+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-01-28T12:10:19.007583+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 10时09分]"
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 12时10分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -63,13 +63,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
+          "url": "https://www.cls.cn/detail/2272037",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1999186592472986900",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
           "url": "https://flash.jin10.com/detail/20260128021217733800",
@@ -143,8 +165,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 10时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 12时10分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -152,11 +174,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 10时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 12时10分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
