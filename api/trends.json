@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T19:28:35.297025+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2026-01-28T21:02:45.257346+08:00",
+  "total_titles_processed": 1881,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时08分 ~ 19时28分]"
+          "appearance_count": 12,
+          "time_info": "[10时08分 ~ 21时02分]"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
