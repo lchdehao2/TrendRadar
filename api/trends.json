@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T13:34:36.016516+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-01-28T14:44:27.892946+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3764292",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 13时34分]"
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 14时44分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -87,11 +88,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 14时44分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -170,19 +172,6 @@
           "time_info": "[00时37分 ~ 13时34分]"
         },
         {
-          "title": "详解DeepSeek新模型OCR2",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 12时10分]"
-        },
-        {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
           "url": "https://www.zhihu.com/question/1999468225642119587",
           "source": "知乎",
@@ -193,6 +182,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时37分 ~ 07时28分]"
+        },
+        {
+          "title": "详解DeepSeek新模型OCR2",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7,
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 14时44分]"
         }
       ]
     }
