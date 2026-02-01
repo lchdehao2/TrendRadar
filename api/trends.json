@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T19:27:59.966742+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-02-01T21:02:08.242353+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
@@ -72,11 +72,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 21时02分]"
         },
         {
           "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
@@ -84,11 +85,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 21时02分]"
         },
         {
           "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
@@ -96,17 +98,18 @@
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 21时02分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "UP体验谷歌最新世界模型",
@@ -121,6 +124,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时36分 ~ 07时29分]"
+        },
+        {
+          "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
+          "url": "https://wallstreetcn.com/articles/3764656",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         }
       ]
     }
