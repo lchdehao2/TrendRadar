@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-01T07:29:21.312014+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-02-01T10:51:50.345941+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
+        {
+          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
+          "url": "https://wallstreetcn.com/articles/3764643",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时32分 ~ 10时51分]"
+        },
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
           "url": "https://flash.jin10.com/detail/20260131204002785800",
@@ -53,17 +65,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时36分 ~ 07时29分]"
-        },
-        {
-          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
-          "url": "https://wallstreetcn.com/articles/3764643",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时32分 ~ 07时29分]"
         }
       ]
     },
