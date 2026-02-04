@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T07:34:42.581801+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-02-04T10:31:53.579488+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -87,6 +87,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时03分 ~ 03时12分]"
+        },
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我确实担心美国在开源人工智能领域没有处于领先地位。",
@@ -236,8 +247,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 07时34分]"
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 10时31分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
