@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-04T15:01:50.953014+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-02-04T15:51:54.998005+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 24,
       "titles": [
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 15时51分]"
+        },
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
           "url": "https://flash.jin10.com/detail/20260204015701016800",
@@ -39,18 +52,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
-        },
-        {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 15时01分]"
         },
         {
           "title": "OpenAI的CEO Altman：公司可能会在AI医药发现方面寻找合作伙伴，或投资。",
@@ -289,11 +290,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时01分 ~ 15时01分]"
+          "appearance_count": 13,
+          "time_info": "[02时01分 ~ 15时51分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
