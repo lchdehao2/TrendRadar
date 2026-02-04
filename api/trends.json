@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T10:31:53.579488+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-02-04T12:45:19.272568+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时03分 ~ 03时12分]"
+        },
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 12时45分]"
         },
         {
           "title": "OpenAI就ChatGPT故障问题发表声明：所有受影响的服务现已完全恢复。",
@@ -89,15 +100,26 @@
           "time_info": "[02时03分 ~ 03时12分]"
         },
         {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
+          "title": "OpenAI：ChatGPT有关问题现已解决。",
+          "url": "https://flash.jin10.com/detail/20260204115251438800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "12时45分"
+        },
+        {
+          "title": "OpenAI：ChatGPT部分用户在加载或开始对话时可能会遇到问题。",
+          "url": "https://flash.jin10.com/detail/20260204115113569800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我确实担心美国在开源人工智能领域没有处于领先地位。",
@@ -247,8 +269,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时01分 ~ 10时31分]"
+          "appearance_count": 10,
+          "time_info": "[02时01分 ~ 12时45分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
