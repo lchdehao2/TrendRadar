@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T04:41:07.622187+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-02-06T05:36:59.238173+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时57分 ~ 04时41分]"
+        },
+        {
+          "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
+          "url": "https://wallstreetcn.com/livenews/3050854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时42分 ~ 05时36分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：5.3-Codex是我们首个在网络安全准备框架中达到“高”级别标准的模型。我们正在试行一个“可信访问”框架，并投入1000万美元的API信用额度以加快网络安全防御工作。",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 02时57分]"
-        },
-        {
-          "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
-          "url": "https://wallstreetcn.com/livenews/3050854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 04时41分]"
         },
         {
           "title": "OpenAI：GPT-5.3-Codex正式发布",
@@ -92,8 +93,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时36分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -103,19 +104,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时36分]"
         },
         {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时36分]"
         }
       ]
     }
