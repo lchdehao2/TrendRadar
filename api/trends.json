@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T19:40:16.765428+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2026-02-05T21:14:37.134137+08:00",
+  "total_titles_processed": 1786,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时33分 ~ 19时40分]"
+          "appearance_count": 12,
+          "time_info": "[10时33分 ~ 21时14分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -54,8 +54,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时53分 ~ 19时40分]"
+          "appearance_count": 7,
+          "time_info": "[16时53分 ~ 21时14分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -344,8 +344,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时53分 ~ 19时40分]"
+          "appearance_count": 7,
+          "time_info": "[16时53分 ~ 21时14分]"
         }
       ]
     }
