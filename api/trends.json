@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T02:59:21.570934+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-02-07T03:42:36.447559+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -60,7 +60,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -100,8 +100,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时42分]"
         },
         {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
