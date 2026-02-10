@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T17:03:00.826484+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-02-10T18:59:03.845750+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
@@ -151,8 +151,19 @@
     },
     {
       "keyword_group": "gemini sora nano banana",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "字节又一新模型！Seedream 5.0 Preview上线，对标Nano Banana Pro",
+          "url": "https://wallstreetcn.com/articles/3765374",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 18时59分]"
+        },
         {
           "title": "字节又一新模型！Seedream 5.0上线，对标Nano Banana Pro",
           "url": "https://wallstreetcn.com/articles/3765374",
