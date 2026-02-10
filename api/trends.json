@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-02-11T01:08:53.100452+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-02-11T03:18:28.126617+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据Business Insider：谷歌业务部门正在向部分员工提供自愿离职方案。",
+          "url": "https://flash.jin10.com/detail/20260211023723066800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        }
+      ]
+    },
     {
       "keyword_group": "gemini sora nano banana",
       "match_count": 1,
@@ -12,11 +29,12 @@
           "url": "https://wallstreetcn.com/articles/3765374",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 03时18分]"
         }
       ]
     }
