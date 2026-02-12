@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T18:57:27.465357+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-02-12T19:47:15.690499+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时47分 ~ 18时57分]"
+          "appearance_count": 19,
+          "time_info": "[00时47分 ~ 19时47分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -55,8 +55,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时47分 ~ 18时57分]"
+          "appearance_count": 19,
+          "time_info": "[00时47分 ~ 19时47分]"
         },
         {
           "title": "DeepSeek新模型来了？",
