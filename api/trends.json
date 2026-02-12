@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T03:15:10.605282+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-02-13T04:42:21.583650+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
@@ -63,22 +63,24 @@
           "source": "微博",
           "ranks": [
             2,
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时42分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时42分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -86,11 +88,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时42分]"
         }
       ]
     },
@@ -127,7 +130,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         }
