@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-14T03:49:16.144448+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-02-14T04:45:36.710209+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
+        {
+          "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
+          "url": "https://www.zhihu.com/question/2005579925827130176",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时48分 ~ 04时45分]"
+        },
         {
           "title": "Gemini3深度思考模型重磅升级",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%E6%A8%A1%E5%9E%8B%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 01时43分]"
-        },
-        {
-          "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
-          "url": "https://www.zhihu.com/question/2005579925827130176",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时48分 ~ 03时49分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)和谷歌(GOOG.O)再次在针对美国专利审查政策的法庭挑战中败诉。",
@@ -53,11 +53,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时49分]"
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 04时45分]"
         },
         {
           "title": "市场消息：OpenAI的语音控制技术被选中用于美国无人机集群竞赛。",
@@ -85,8 +86,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 03时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 04时45分]"
         }
       ]
     }
