@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T22:47:27.615089+08:00",
-  "total_titles_processed": 1823,
+  "generated_at": "2026-02-13T23:50:34.260977+08:00",
+  "total_titles_processed": 1920,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时11分 ~ 10时44分]"
+        },
+        {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时54分 ~ 23时50分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -59,20 +73,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[01时11分 ~ 19时35分]"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时54分 ~ 22时47分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -150,7 +150,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -194,7 +194,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
@@ -205,7 +205,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时47分"
         },
