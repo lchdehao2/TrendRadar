@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T18:34:00.738809+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-02-14T19:28:31.872256+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             12,
             9,
             8,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时46分 ~ 18时34分]"
+          "appearance_count": 10,
+          "time_info": "[12时46分 ~ 19时28分]"
         },
         {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
@@ -135,6 +136,19 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "DeepSeek春节再扔王炸？最新披露",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时50分 ~ 19时28分]"
+        },
+        {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
           "url": "https://www.zhihu.com/question/2005557043939993512",
           "source": "知乎",
@@ -149,19 +163,6 @@
           "time_info": "[00时55分 ~ 07时37分]"
         },
         {
-          "title": "DeepSeek春节再扔王炸？最新披露",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时50分 ~ 18时34分]"
-        },
-        {
           "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
           "url": "https://m.thepaper.cn/newsDetail_forward_32602762",
           "source": "澎湃新闻",
@@ -173,8 +174,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时30分 ~ 18时34分]"
+          "appearance_count": 12,
+          "time_info": "[10时30分 ~ 19时28分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -186,8 +187,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时54分 ~ 18时34分]"
+          "appearance_count": 8,
+          "time_info": "[14时54分 ~ 19时28分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -201,8 +202,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时54分 ~ 18时34分]"
+          "appearance_count": 8,
+          "time_info": "[14时54分 ~ 19时28分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
