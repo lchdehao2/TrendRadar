@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T03:31:55.119184+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-02-16T04:34:39.344852+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2290476",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时34分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -25,11 +26,12 @@
           "ranks": [
             18,
             16,
-            15
+            15,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时30分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时30分 ~ 04时34分]"
         }
       ]
     },
@@ -45,8 +47,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时34分]"
         }
       ]
     },
@@ -63,8 +65,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 04时34分]"
         }
       ]
     }
