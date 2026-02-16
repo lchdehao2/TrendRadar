@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-16T21:16:08.201036+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-02-16T22:48:40.557961+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 10,
       "titles": [
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时04分 ~ 22时48分]"
+        },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
           "url": "https://wallstreetcn.com/articles/3765755",
@@ -20,20 +34,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时38分 ~ 15时11分]"
-        },
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时04分 ~ 21时16分]"
         },
         {
           "title": "OpenClaw之父加入OpenAI",
@@ -141,11 +141,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 21时16分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 22时48分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -172,8 +173,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时43分 ~ 21时16分]"
+          "appearance_count": 4,
+          "time_info": "[19时43分 ~ 22时48分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
