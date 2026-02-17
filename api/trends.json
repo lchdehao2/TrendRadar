@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T07:35:54.483504+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-02-17T10:36:22.459958+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             1,
             11,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时35分 ~ 07时35分]"
+          "appearance_count": 4,
+          "time_info": "[05时35分 ~ 10时36分]"
         },
         {
           "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
@@ -80,11 +81,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 10时36分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -97,8 +99,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 10时36分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
