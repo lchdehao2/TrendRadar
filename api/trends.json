@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T21:01:40.355369+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-02-22T21:52:09.394454+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时37分 ~ 21时01分]"
+          "appearance_count": 23,
+          "time_info": "[00时37分 ~ 21时52分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -69,8 +69,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时37分 ~ 21时01分]"
+          "appearance_count": 25,
+          "time_info": "[00时37分 ~ 21时52分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -83,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时39分 ~ 21时01分]"
+          "appearance_count": 10,
+          "time_info": "[15时39分 ~ 21时52分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -114,11 +114,12 @@
             5,
             4,
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时39分 ~ 21时01分]"
+          "appearance_count": 15,
+          "time_info": "[10时39分 ~ 21时52分]"
         }
       ]
     }
