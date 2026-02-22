@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T18:32:28.249884+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-02-22T19:28:04.492520+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
@@ -68,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时37分 ~ 18时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时37分 ~ 19时28分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -82,8 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[15时39分 ~ 19时28分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -115,8 +115,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时39分 ~ 18时32分]"
+          "appearance_count": 12,
+          "time_info": "[10时39分 ~ 19时28分]"
         }
       ]
     }
