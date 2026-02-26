@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T03:50:28.788059+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-02-27T04:44:39.185639+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 03时50分]"
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 04时44分]"
         },
         {
           "title": "谷歌：推出更快版本的最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
@@ -76,7 +77,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
         }
