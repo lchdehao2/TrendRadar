@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T06:30:41.409599+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-02-28T07:31:21.099354+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 06时30分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 07时31分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -25,11 +25,25 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时41分 ~ 06时30分]"
+          "appearance_count": 9,
+          "time_info": "[01时41分 ~ 07时31分]"
+        },
+        {
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时35分 ~ 07时31分]"
         },
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
@@ -42,18 +56,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时37分 ~ 04时35分]"
-        },
-        {
-          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
-          "url": "https://wallstreetcn.com/articles/3766389",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时35分 ~ 06时30分]"
         },
         {
           "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
@@ -81,8 +83,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 06时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 07时31分]"
         }
       ]
     },
