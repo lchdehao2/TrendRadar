@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T18:30:38.785635+08:00",
-  "total_titles_processed": 1624,
+  "generated_at": "2026-02-28T19:25:26.169611+08:00",
+  "total_titles_processed": 1740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
@@ -19,8 +19,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时35分 ~ 18时30分]"
+          "appearance_count": 15,
+          "time_info": "[05时35分 ~ 19时25分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -55,11 +55,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时47分 ~ 18时30分]"
+          "appearance_count": 8,
+          "time_info": "[14时47分 ~ 19时25分]"
         },
         {
           "title": "OpenAI获1100亿美元新投资",
@@ -130,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
+          "url": "https://www.cls.cn/detail/2298126",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们强烈希望事态能够缓和，避免诉诸法律和政府行动，并达成合理的协议。",
