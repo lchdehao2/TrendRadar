@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T16:38:28.533189+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-03-01T17:36:34.516277+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
@@ -22,8 +22,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 16时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 17时36分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",
