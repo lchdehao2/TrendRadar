@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T13:54:02.788478+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-03-05T15:01:53.960783+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 15时01分]"
         },
         {
           "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
