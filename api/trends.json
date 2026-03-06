@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T16:46:27.315896+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2026-03-06T17:47:58.013081+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时31分 ~ 16时46分]"
+          "appearance_count": 8,
+          "time_info": "[10时31分 ~ 17时47分]"
         },
         {
           "title": "OpenAI发布GPT-5.4",
