@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-03-08T19:27:08.501200+08:00",
-  "total_titles_processed": 1258,
-  "failed_sources": [],
+  "generated_at": "2026-03-08T21:00:42.364984+08:00",
+  "total_titles_processed": 1354,
+  "failed_sources": [
+    "weibo"
+  ],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
