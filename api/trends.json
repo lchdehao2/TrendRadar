@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-13T21:11:23.039161+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2026-03-13T22:50:06.094228+08:00",
+  "total_titles_processed": 1870,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek V4 为什么还不发布？",
+          "url": "https://www.zhihu.com/question/2014783631814580088",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 22时50分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/lchdehao2/TrendRadar/img/news.jpg"
 }
