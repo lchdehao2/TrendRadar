@@ -1,43 +1,7 @@
 {
-  "generated_at": "2026-03-14T23:34:14.665768+08:00",
-  "total_titles_processed": 1615,
+  "generated_at": "2026-03-15T00:39:01.766091+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek V4 为什么还不发布？",
-          "url": "https://www.zhihu.com/question/2014783631814580088",
-          "source": "知乎",
-          "ranks": [
-            11,
-            3,
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 10时31分]"
-        },
-        {
-          "title": "据《白鲸实验室》报道，DeepSeek V4和姚顺雨领衔操刀的混元新模型，均预计将于下个月（2026年4月）发布。",
-          "url": "https://wallstreetcn.com/livenews/3070070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15,
-            22,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时31分 ~ 15时40分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/lchdehao2/TrendRadar/img/news.jpg"
 }
