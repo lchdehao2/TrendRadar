@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T18:56:22.721027+08:00",
-  "total_titles_processed": 1469,
+  "generated_at": "2026-03-17T19:48:23.899584+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时56分]"
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时48分]"
         },
         {
           "title": "英伟达CEO黄仁勋：。我们与谷歌AWS合作已经很长时间了。今年我非常兴奋的一件事是，我们将把开放人工智能引入AWS。这将推动AWS云计算的巨大消费。",
@@ -78,7 +79,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         }
