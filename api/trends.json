@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T21:25:13.666627+08:00",
-  "total_titles_processed": 1613,
+  "generated_at": "2026-03-18T23:10:04.045637+08:00",
+  "total_titles_processed": 1751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
@@ -21,6 +21,17 @@
           "time_info": "[10时41分 ~ 18时04分]"
         },
         {
+          "title": "宇树科技王兴兴：人形机器人今年年中跑赢人类，具身智能“ChatGPT时刻”还需2-3年",
+          "url": "https://www.cls.cn/detail/2316519",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
           "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3071904",
           "source": "华尔街见闻-快讯",
@@ -31,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时39分]"
+        },
+        {
+          "title": "如何评价 OpenAI 最新发布的 GPT-5.4 mini 和 GPT-5.4 Nano?",
+          "url": "https://www.zhihu.com/question/2017426077002253714",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
@@ -89,7 +111,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -131,11 +153,12 @@
             8,
             11,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时41分 ~ 21时25分]"
+          "appearance_count": 11,
+          "time_info": "[10时41分 ~ 23时10分]"
         }
       ]
     }
