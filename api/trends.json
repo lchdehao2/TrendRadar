@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T15:08:54.209702+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-03-18T16:58:36.193654+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时41分 ~ 15时08分]"
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 16时58分]"
         },
         {
           "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
@@ -115,11 +115,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时41分 ~ 15时08分]"
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 16时58分]"
         }
       ]
     }
