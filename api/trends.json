@@ -1,105 +1,33 @@
 {
-  "generated_at": "2026-03-20T23:50:44.037947+08:00",
-  "total_titles_processed": 1954,
+  "generated_at": "2026-03-21T00:53:20.319776+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "XAI派工程师前往客户现场，以从OpenAI手中抢夺业务。",
-          "url": "https://flash.jin10.com/detail/20260320210018195800",
+          "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
+          "url": "https://flash.jin10.com/detail/20260321004049081800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时11分"
+          "time_info": "00时53分"
         },
         {
-          "title": "据华尔街日报：OpenAI总裁格雷格·布罗克曼将临时负责应用改造。",
-          "url": "https://flash.jin10.com/detail/20260320063632572800",
-          "source": "金十数据",
+          "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
+          "url": "https://www.zhihu.com/question/2016876183153768141",
+          "source": "知乎",
           "ranks": [
-            17
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI正采取措施简化用户体验，计划推出桌面“超级应用”，整合Codex、ChatGPT和浏览器。",
-          "url": "https://flash.jin10.com/detail/20260320063627057800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "OpenAI计划推出桌面“SupperAPP”。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3073607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Gemini SpaceX Station四季度营收6030万美元，分析师预期5570万美元。",
-          "url": "https://wallstreetcn.com/livenews/3073558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时42分]"
-        },
-        {
-          "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
-          "url": "https://flash.jin10.com/detail/20260320033049642800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 10时33分]"
+          "time_info": "00时53分"
         }
       ]
     }
