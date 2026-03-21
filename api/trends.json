@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T21:50:43.873142+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-03-21T22:33:32.721973+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时50分]"
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 22时33分]"
         },
         {
           "title": "OpenAI计划到2026年底将员工人数增至8000人，以缩小与竞争对手Anthropic的差距。",
