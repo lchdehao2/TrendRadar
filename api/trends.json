@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T06:42:36.685980+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-03-26T07:49:38.501568+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
+          "url": "https://wallstreetcn.com/articles/3768391",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         },
         {
           "title": "谷歌公司推出Lyria 3 Pro，支持更具结构意识的长音频处理。",
@@ -64,11 +75,12 @@
           "ranks": [
             14,
             16,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 07时49分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -94,11 +106,12 @@
           "ranks": [
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 07时49分]"
         },
         {
           "title": "Sora关停背后",
@@ -108,8 +121,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 07时49分]"
         }
       ]
     }
