@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T04:46:35.539588+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-03-26T05:46:22.471787+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -47,7 +47,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         }
@@ -63,11 +63,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 05时46分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -92,11 +93,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 05时46分]"
         },
         {
           "title": "Sora关停背后",
@@ -106,8 +108,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 05时46分]"
         }
       ]
     }
