@@ -1,169 +1,44 @@
 {
-  "generated_at": "2026-03-26T23:11:24.237343+08:00",
-  "total_titles_processed": 1744,
+  "generated_at": "2026-03-27T01:09:56.827563+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
           "url": "https://wallstreetcn.com/articles/3768391",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时49分 ~ 23时11分]"
-        },
-        {
-          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
-          "url": "https://www.cls.cn/detail/2325322",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5,
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时17分 ~ 23时11分]"
-        },
-        {
-          "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
-          "url": "https://flash.jin10.com/detail/20260326022229112800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时03分"
+          "time_info": "01时09分"
         },
         {
-          "title": "谷歌公司推出Lyria 3 Pro，支持更具结构意识的长音频处理。",
-          "url": "https://wallstreetcn.com/livenews/3076804",
+          "title": "谷歌公司Fiber更名为GFiber。",
+          "url": "https://wallstreetcn.com/livenews/3077578",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "01时09分"
         },
         {
-          "title": "META和谷歌在社交媒体成瘾案中被认为负有责任。",
-          "url": "https://wallstreetcn.com/livenews/3076836",
+          "title": "谷歌公司：推出Gemini 3.1 Flash Live Audio & Voice模型。 在全球推广Search Live。 向那些已经存在人工智能（AI）模型的地方推广Search Live。",
+          "url": "https://wallstreetcn.com/livenews/3077571",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "美国社交媒体成瘾案陪审团裁定，谷歌需支付90万美元的惩罚性赔偿金。",
-          "url": "https://flash.jin10.com/detail/20260326035612512800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            16,
-            12,
-            13,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时09分 ~ 23时11分]"
-        },
-        {
-          "title": "OpenAI推出安全漏洞赏金计划。",
-          "url": "https://wallstreetcn.com/livenews/3076838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "OpenAI Codex工程负责人：Codex App将继续保留。我们只是比以往投入了更多资源进行开发，它很快会变得相当出色。",
-          "url": "https://flash.jin10.com/detail/20260326100821499800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "gemini sora nano banana",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何看待 sora 即将停止服务，seedance 还能坚持多久？",
-          "url": "https://www.zhihu.com/question/2020124278553625840",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时49分]"
-        },
-        {
-          "title": "Sora关停背后",
-          "url": "https://www.douyin.com/hot/2442643",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时49分]"
-        },
-        {
-          "title": "如何看待 Sora 即将停止服务，seedance 还能坚持多久？",
-          "url": "https://www.zhihu.com/question/2020124278553625840",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
+          "time_info": "01时09分"
         }
       ]
     },
@@ -176,14 +51,28 @@
           "url": "https://wallstreetcn.com/articles/3768419",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7,
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时47分 ~ 23时11分]"
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
         }
       ]
     }
