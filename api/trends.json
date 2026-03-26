@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T06:37:04.774894+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-03-27T07:38:57.081587+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
@@ -79,8 +79,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 06时37分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 07时38分]"
         },
         {
           "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
@@ -127,22 +127,24 @@
           "url": "https://wallstreetcn.com/articles/3768419",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时37分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 07时38分]"
         },
         {
           "title": "网传 DeepSeekV4 要来了，这次是真的吗？目前有哪些信息？",
           "url": "https://www.zhihu.com/question/2015379461017659100",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 06时37分]"
+          "appearance_count": 3,
+          "time_info": "[06时36分 ~ 07时38分]"
         }
       ]
     }
