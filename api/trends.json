@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T17:04:53.365652+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-03-26T18:58:21.367362+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时49分 ~ 17时04分]"
+          "appearance_count": 6,
+          "time_info": "[07时49分 ~ 18时58分]"
         },
         {
           "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
@@ -28,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 17时04分]"
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 18时58分]"
         },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -94,8 +95,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时09分 ~ 17时04分]"
+          "appearance_count": 12,
+          "time_info": "[01时09分 ~ 18时58分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -174,11 +175,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时47分 ~ 17时04分]"
+          "appearance_count": 5,
+          "time_info": "[10时47分 ~ 18时58分]"
         }
       ]
     }
