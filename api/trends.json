@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T19:45:59.308497+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2026-03-27T21:18:14.940926+08:00",
+  "total_titles_processed": 1678,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时49分 ~ 19时45分]"
+          "appearance_count": 11,
+          "time_info": "[10时49分 ~ 21时18分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -28,11 +29,27 @@
             9,
             5,
             8,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时12分 ~ 19时45分]"
+          "appearance_count": 10,
+          "time_info": "[13时12分 ~ 21时18分]"
+        },
+        {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            9,
+            10,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时16分 ~ 21时18分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -44,20 +61,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时09分 ~ 04时41分]"
-        },
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            9,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时16分 ~ 19时45分]"
         },
         {
           "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
