@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T22:57:13.994140+08:00",
-  "total_titles_processed": 1813,
+  "generated_at": "2026-03-27T23:59:01.724431+08:00",
+  "total_titles_processed": 1896,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -19,8 +19,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时49分 ~ 22时57分]"
+          "appearance_count": 15,
+          "time_info": "[10时49分 ~ 23时59分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -35,8 +35,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时12分 ~ 22时57分]"
+          "appearance_count": 14,
+          "time_info": "[13时12分 ~ 23时59分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -48,11 +48,12 @@
             10,
             14,
             15,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时16分 ~ 22时57分]"
+          "appearance_count": 13,
+          "time_info": "[15时16分 ~ 23时59分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -88,6 +89,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时49分 ~ 17时02分]"
+        },
+        {
+          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
+          "url": "https://www.cls.cn/detail/2327153",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
