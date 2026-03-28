@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T10:39:00.390647+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-03-28T12:58:49.847881+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             7,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 10时39分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 12时58分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -30,11 +31,12 @@
             18,
             14,
             12,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 10时39分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 12时58分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -44,11 +46,12 @@
             14,
             15,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 10时39分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 12时58分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -59,11 +62,12 @@
             14,
             17,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 10时39分]"
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 12时58分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
