@@ -1,110 +1,44 @@
 {
-  "generated_at": "2026-03-28T23:37:29.668862+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2026-03-29T00:41:19.063699+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
-          "url": "https://www.cls.cn/detail/2327153",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            8,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时04分 ~ 14时04分]"
-        },
         {
           "title": "谷歌TurboQuant论文解读",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            19,
-            18,
-            14,
-            12,
-            16,
-            17,
-            13,
-            15
+            13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时04分 ~ 23时37分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         },
         {
           "title": "UP主实测谷歌压缩算法",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
-            14,
-            15,
-            17,
-            20,
-            22,
-            13,
-            16,
-            19,
-            23,
-            18
+            17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时04分 ~ 23时37分]"
+          "appearance_count": 1,
+          "time_info": "00时41分"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            15,
-            14,
-            17,
-            16,
-            19,
-            20,
-            18,
-            23,
-            21,
-            26,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时04分 ~ 23时37分]"
-        },
-        {
-          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
-          "url": "https://www.zhihu.com/question/2020455049218712383",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时42分 ~ 21时06分]"
-        },
-        {
-          "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
-          "url": "https://flash.jin10.com/detail/20260328014753556800",
-          "source": "金十数据",
-          "ranks": [
-            23
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时03分"
+          "time_info": "00时41分"
         }
       ]
     }
