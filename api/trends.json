@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T18:38:30.125817+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-03-28T19:34:03.202621+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             12,
             16,
             17,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时04分 ~ 18时38分]"
+          "appearance_count": 18,
+          "time_info": "[01时04分 ~ 19时34分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -54,8 +55,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时04分 ~ 18时38分]"
+          "appearance_count": 18,
+          "time_info": "[01时04分 ~ 19时34分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -69,11 +70,12 @@
             19,
             20,
             18,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时04分 ~ 18时38分]"
+          "appearance_count": 18,
+          "time_info": "[01时04分 ~ 19时34分]"
         },
         {
           "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
@@ -81,11 +83,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时42分 ~ 18时38分]"
+          "appearance_count": 5,
+          "time_info": "[17时42分 ~ 19时34分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
