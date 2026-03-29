@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T21:07:16.641892+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-03-29T22:39:07.867009+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时12分 ~ 21时07分]"
+          "appearance_count": 11,
+          "time_info": "[15时12分 ~ 22时39分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -31,8 +32,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时53分 ~ 21时07分]"
+          "appearance_count": 13,
+          "time_info": "[10时53分 ~ 22时39分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -89,8 +90,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时35分 ~ 21时07分]"
+          "appearance_count": 5,
+          "time_info": "[19时35分 ~ 22时39分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -113,6 +114,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 22时39分]"
         }
       ]
     }
