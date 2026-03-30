@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T15:51:16.028801+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-03-30T17:19:51.793367+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 15时51分]"
+          "appearance_count": 5,
+          "time_info": "[10时55分 ~ 17时19分]"
         },
         {
           "title": "豆包谈DeepSeek频繁崩溃",
@@ -58,28 +58,17 @@
           "time_info": "13时31分"
         },
         {
-          "title": "DeepSeek已恢复服务",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B7%B2%E6%81%A2%E5%A4%8D%E6%9C%8D%E5%8A%A1",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 15时51分]"
-        },
-        {
           "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 15时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 17时19分]"
         },
         {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
@@ -90,8 +79,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 15时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 17时19分]"
+        },
+        {
+          "title": "DeepSeek已恢复服务",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B7%B2%E6%81%A2%E5%A4%8D%E6%9C%8D%E5%8A%A1",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 15时51分]"
         },
         {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，怎么回事？",
@@ -163,11 +164,12 @@
             14,
             16,
             22,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 15时51分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 17时19分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -179,11 +181,12 @@
             19,
             24,
             16,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 15时51分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 17时19分]"
         }
       ]
     }
