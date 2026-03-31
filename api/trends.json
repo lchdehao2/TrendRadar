@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-31T15:24:36.950525+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-03-31T17:08:05.441538+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "DeepSeek为何宕机7小时",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BD%95%E5%AE%95%E6%9C%BA7%E5%B0%8F%E6%97%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
+        },
         {
           "title": "DeepSeek崩溃10多小时为何是“好事”",
           "url": "https://www.toutiao.com/trending/7622965821714730505/",
@@ -19,6 +30,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时07分 ~ 07时42分]"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
         }
       ]
     },
