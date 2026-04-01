@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T13:59:07.508562+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-04-01T15:48:28.250595+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
@@ -20,22 +20,23 @@
           "time_info": "[04时50分 ~ 05时45分]"
         },
         {
+          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
+          "url": "https://www.cls.cn/detail/2331423",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 15时48分]"
+        },
+        {
           "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
           "url": "https://www.cls.cn/detail/2331334",
           "source": "财联社热门",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 13时59分]"
-        },
-        {
-          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
-          "url": "https://www.cls.cn/detail/2331423",
-          "source": "财联社热门",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -64,6 +65,17 @@
           "time_info": "04时50分"
         },
         {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
           "url": "https://wallstreetcn.com/livenews/3080357",
           "source": "华尔街见闻-快讯",
@@ -86,11 +98,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 15时48分]"
         }
       ]
     },
