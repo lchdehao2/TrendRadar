@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T17:13:41.117837+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2026-04-01T19:03:48.826221+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 17时13分]"
+          "appearance_count": 3,
+          "time_info": "[15时48分 ~ 19时03分]"
         },
         {
           "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
@@ -100,7 +100,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -131,8 +131,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 17时13分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 19时03分]"
         }
       ]
     }
