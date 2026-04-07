@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T06:43:45.936462+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-04-08T07:42:33.074902+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "曝ChatGPT6本月发布",
@@ -17,8 +17,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 07时42分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：为庆祝每周使用Codex的用户达到300万，我们将重置使用限制。",
+          "url": "https://flash.jin10.com/detail/20260408074121822800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         }
       ]
     }
