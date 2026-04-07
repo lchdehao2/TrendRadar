@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T21:28:40.046752+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2026-04-07T23:15:31.976257+08:00",
+  "total_titles_processed": 1747,
   "failed_sources": [],
   "trends": [
     {
@@ -89,11 +89,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时28分]"
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 23时15分]"
         },
         {
           "title": "OpenAI敦促加州和特拉华州调查马斯克的“反竞争行为”。",
