@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T21:43:38.433466+08:00",
-  "total_titles_processed": 1648,
+  "generated_at": "2026-04-08T23:16:31.453006+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
@@ -60,11 +60,12 @@
             14,
             19,
             18,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时19分 ~ 21时43分]"
+          "appearance_count": 16,
+          "time_info": "[01时19分 ~ 23时16分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：为庆祝每周使用Codex的用户达到300万，我们将重置使用限制。",
