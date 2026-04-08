@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T15:43:18.656048+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-04-08T17:09:50.896947+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 15时43分]"
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 17时09分]"
         },
         {
           "title": "DeepSeek更新专家模式",
@@ -62,8 +62,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时19分 ~ 15时43分]"
+          "appearance_count": 13,
+          "time_info": "[01时19分 ~ 17时09分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：为庆祝每周使用Codex的用户达到300万，我们将重置使用限制。",
