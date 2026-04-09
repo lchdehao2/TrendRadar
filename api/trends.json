@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T05:53:25.470059+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-04-10T06:50:24.619521+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI声称其算力比Anthropic更有优势",
@@ -31,13 +31,24 @@
           "time_info": "04时58分"
         },
         {
+          "title": "美国佛罗里达州总检察长对OpenAI发起调查。",
+          "url": "https://flash.jin10.com/detail/20260410061119660800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：很高兴看到Codex受到这么多人的喜爱。应广大用户的强烈要求，我们即将推出100美元的ChatGPT Pro会员等级。",
           "url": "https://flash.jin10.com/detail/20260410044609661800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -59,7 +70,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         }
