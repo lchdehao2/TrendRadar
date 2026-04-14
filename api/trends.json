@@ -1,44 +1,33 @@
 {
-  "generated_at": "2026-04-14T23:19:06.651081+08:00",
-  "total_titles_processed": 1730,
+  "generated_at": "2026-04-15T01:33:44.581658+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI伦敦设立永久办公室",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 15时56分]"
-        },
-        {
-          "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
-          "url": "https://flash.jin10.com/detail/20260414043421131800",
+          "title": "微软接手OpenAI挪威数据中心租约",
+          "url": "https://flash.jin10.com/detail/20260415012050964800",
           "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "01时33分"
         },
         {
-          "title": "OpenAI估值8520亿美元遭质疑：押注企业市场，投资人直言“失焦”",
-          "url": "https://flash.jin10.com/detail/20260414124747645800",
-          "source": "金十数据",
+          "title": "微软将接管OpenAI在挪威数据中心的租约",
+          "url": "https://wallstreetcn.com/livenews/3087885",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "01时33分"
         }
       ]
     },
@@ -54,8 +43,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时57分 ~ 23时19分]"
+          "appearance_count": 1,
+          "time_info": "01时33分"
         }
       ]
     },
@@ -64,15 +53,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3087405",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌：在Chrome中推出“技能”（Skills）功能，用于保存AI提示词。",
+          "url": "https://flash.jin10.com/detail/20260415010401722800",
+          "source": "金十数据",
           "ranks": [
-            22
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "01时33分"
         }
       ]
     }
