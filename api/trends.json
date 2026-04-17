@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T11:18:57.416060+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2026-04-17T14:07:18.206766+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2346818",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 14时07分]"
         },
         {
           "title": "OpenAI发布Codex更新",
