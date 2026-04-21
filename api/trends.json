@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T07:51:15.844293+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-04-21T11:19:10.547224+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 OpenAI 近期小范围内测的 GPT-image-2 生图模型？",
+          "url": "https://www.zhihu.com/question/2028780908405170838",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 11时19分]"
         }
       ]
     }
