@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T05:02:56.777008+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-04-23T06:53:25.776166+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -78,8 +78,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 06时53分]"
         },
         {
           "title": "阿里等巨头洽谈投资DeepSeek",
