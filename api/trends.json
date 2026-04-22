@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T06:53:25.776166+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-04-23T07:51:48.274927+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：Gemini Embedding 2现已全面上线。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "谷歌云年度Next大会：TPU打破“内存墙” OCS、液冷题材如期亮相",
+          "url": "https://www.cls.cn/detail/2352843",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         },
         {
           "title": "谷歌设立7.5亿美元基金，助力咨询公司应用AI",
@@ -66,7 +77,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何评价 Deepseek 于 2026 年 4 月 22 日上线的新模型 api？",
@@ -80,6 +91,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时09分 ~ 06时53分]"
+        },
+        {
+          "title": "如何评价 DeepSeek API 更新百万 Token 上下文，看齐 App 及网页版？",
+          "url": "https://www.zhihu.com/question/2030308965683291022",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时51分"
         },
         {
           "title": "阿里等巨头洽谈投资DeepSeek",
