@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T11:21:14.925316+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-04-23T14:09:59.307541+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 11时21分]"
+          "appearance_count": 4,
+          "time_info": "[07时51分 ~ 14时09分]"
         },
         {
           "title": "谷歌(GOOG.O)：Gemini Embedding 2现已全面上线。",
