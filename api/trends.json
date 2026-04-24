@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T05:57:29.545408+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-04-25T06:50:44.437755+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时50分]"
         },
         {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时50分]"
         },
         {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
@@ -41,8 +41,23 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时50分]"
+        },
+        {
+          "title": "DeepSeek V4揭开AI内卷终局",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            14,
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时50分]"
         },
         {
           "title": "DeepSeek V4 Pro实测",
@@ -54,22 +69,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时57分]"
-        },
-        {
-          "title": "DeepSeek V4揭开AI内卷终局",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            14,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时50分]"
         },
         {
           "title": "实测DeepSeek V4",
@@ -81,21 +82,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时57分]"
-        },
-        {
-          "title": "DeepSeek V4强在哪里",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时50分]"
         },
         {
           "title": "DeepSeekV4预览版本上线",
@@ -105,22 +93,38 @@
             16,
             18,
             19,
-            23
+            23,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时50分]"
+        },
+        {
+          "title": "DeepSeek V4强在哪里",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            16,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时50分]"
         },
         {
           "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
           "url": "https://m.thepaper.cn/newsDetail_forward_33042587",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时50分]"
         },
         {
           "title": "万字回顾DeepSeek演进之路",
@@ -133,8 +137,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时50分]"
         },
         {
           "title": "深度解读DeepSeek-V4",
@@ -143,11 +147,12 @@
           "ranks": [
             25,
             26,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 06时50分]"
         },
         {
           "title": "月之暗面与DeepSeek的“听牌”时刻",
@@ -179,9 +184,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时50分]"
         },
         {
           "title": "DeepSeek V4 发布",
