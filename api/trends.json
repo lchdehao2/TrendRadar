@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T19:12:08.791367+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2026-05-01T21:28:59.223219+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时57分 ~ 19时12分]"
+          "appearance_count": 10,
+          "time_info": "[06时57分 ~ 21时28分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -26,11 +26,12 @@
           "ranks": [
             11,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时57分 ~ 19时12分]"
+          "appearance_count": 10,
+          "time_info": "[06时57分 ~ 21时28分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -51,11 +52,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 21时28分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -164,11 +166,12 @@
             4,
             7,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时26分 ~ 19时12分]"
+          "appearance_count": 13,
+          "time_info": "[01时26分 ~ 21时28分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
