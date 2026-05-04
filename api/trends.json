@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T06:07:28.960263+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-05-05T07:59:44.892718+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 07时59分]"
         }
       ]
     },
