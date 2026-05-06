@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T14:36:37.070239+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2026-05-06T17:28:30.027499+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 14时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时37分 ~ 17时28分]"
         },
         {
           "title": "市场消息：Alphabet(GOOG.O)也在与EQT讨论获取谷歌的人工智能模型。",
@@ -164,11 +165,12 @@
             19,
             28,
             15,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 14时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 17时28分]"
         }
       ]
     }
