@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T04:19:03.642953+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-05-08T06:05:52.510777+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 06时05分]"
         },
         {
           "title": "据The Information：OpenAI与博通(AVGO.O)的AI芯片交易遭遇180亿美元融资障碍。",
