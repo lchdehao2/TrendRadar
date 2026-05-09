@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T19:55:11.077506+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-05-09T21:27:37.567099+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时49分 ~ 19时55分]"
+          "appearance_count": 9,
+          "time_info": "[11时49分 ~ 21时27分]"
         },
         {
           "title": "DeepSeek识图模式大范围开放",
@@ -32,8 +32,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时49分 ~ 19时55分]"
+          "appearance_count": 9,
+          "time_info": "[11时49分 ~ 21时27分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -42,11 +42,12 @@
           "ranks": [
             5,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时44分 ~ 19时55分]"
+          "appearance_count": 6,
+          "time_info": "[16时44分 ~ 21时27分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士：双方应该没有进行谈判",
@@ -61,6 +62,18 @@
           "time_info": "[16时45分 ~ 18时11分]"
         },
         {
+          "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
+          "url": "https://flash.jin10.com/detail/20260509183702634800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 21时27分]"
+        },
+        {
           "title": "DeepSeek正式跨入图文交互时代",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E8%B7%A8%E5%85%A5%E5%9B%BE%E6%96%87%E4%BA%A4%E4%BA%92%E6%97%B6%E4%BB%A3%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -70,17 +83,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时28分 ~ 14时29分]"
-        },
-        {
-          "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
-          "url": "https://flash.jin10.com/detail/20260509183702634800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
         }
       ]
     },
@@ -110,8 +112,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时44分 ~ 19时55分]"
+          "appearance_count": 6,
+          "time_info": "[16时44分 ~ 21时27分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -121,8 +123,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 19时55分]"
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 21时27分]"
         },
         {
           "title": "ChatGPT的恐怖我后知后觉",
