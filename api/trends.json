@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T05:09:35.824601+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-05-16T07:01:03.133409+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         }
@@ -51,11 +51,12 @@
           "url": "https://s.weibo.com/weibo?q=Deepseek%E4%B8%8D%E8%AF%AD%20%E5%8F%AA%E6%98%AF%E4%B8%80%E5%91%B3%E8%B7%9F%E5%9B%A2&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[03时45分 ~ 07时01分]"
         }
       ]
     },
