@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-05-16T01:45:06.332291+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-05-16T03:45:35.767786+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Deepseek不语 只是一味跟团",
+          "url": "https://s.weibo.com/weibo?q=Deepseek%E4%B8%8D%E8%AF%AD%20%E5%8F%AA%E6%98%AF%E4%B8%80%E5%91%B3%E8%B7%9F%E5%9B%A2&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
@@ -14,7 +31,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         }
