@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T17:42:48.096903+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-05-20T20:29:06.474865+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时11分 ~ 17时42分]"
+          "appearance_count": 6,
+          "time_info": "[08时11分 ~ 20时29分]"
         },
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时10分 ~ 08时12分]"
+        },
+        {
+          "title": "对谈谷歌开发者社区核心成员",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E8%B0%88%E8%B0%B7%E6%AD%8C%E5%BC%80%E5%8F%91%E8%80%85%E7%A4%BE%E5%8C%BA%E6%A0%B8%E5%BF%83%E6%88%90%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 20时29分]"
         },
         {
           "title": "谷歌新增Android Vibe编程支持到Google AI Studio。",
@@ -358,7 +369,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
