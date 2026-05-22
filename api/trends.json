@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T17:37:31.522142+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-05-22T20:26:01.972696+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "不小心把DeepSeek叫成豆包",
@@ -81,6 +81,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时18分 ~ 04时56分]"
+        },
+        {
+          "title": "据The Information：宁德时代计划投资DeepSeek。",
+          "url": "https://flash.jin10.com/detail/20260522195855222800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果谷歌英伟达，集体松了口气",
+          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 20时26分]"
         }
       ]
     }
