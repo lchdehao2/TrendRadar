@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-22T06:23:58.475141+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-05-22T08:08:44.302890+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
           "url": "https://www.zhihu.com/question/2040738759281473391",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 08时08分]"
         },
         {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
@@ -50,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "据The Information：OpenAI创始人奥尔特曼周三暗示，即使公司提交了IPO申请，也可能会推迟实际上市时间。",
+          "url": "https://flash.jin10.com/detail/20260522061919828800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
         }
       ]
     },
