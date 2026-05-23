@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T15:34:27.388273+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2026-05-23T17:59:42.829559+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
@@ -30,19 +30,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 15时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 17时59分]"
         },
         {
           "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
           "url": "https://www.zhihu.com/question/2041154123677126717",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 17时59分]"
+        },
+        {
+          "title": "DeepSeek-V4-Pro API价格永久下调至原价25%",
+          "url": "https://flash.jin10.com/detail/20260523153803265800",
+          "source": "金十数据",
+          "ranks": [
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "17时59分"
         }
       ]
     },
@@ -56,11 +68,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 15时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 17时59分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
