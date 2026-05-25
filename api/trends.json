@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T17:02:13.265187+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2026-05-25T20:41:04.555595+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "ranks": [
             12,
             17,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 17时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 20时41分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -70,7 +71,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         }
