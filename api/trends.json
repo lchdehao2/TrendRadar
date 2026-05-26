@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T15:59:23.622180+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-05-26T23:51:55.855650+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待 DeepSeek 连续多次降价？",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 15时59分]"
+        },
+        {
+          "title": "如果 deepseek r1 推理激活参数只有 37B，是不是意味着 37B 的大模型就可以在垂直领域有效？",
+          "url": "https://www.zhihu.com/question/12005197517",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         }
       ]
     },
