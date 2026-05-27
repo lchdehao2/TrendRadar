@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T13:21:16.135112+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-05-27T18:03:30.119722+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时12分 ~ 08时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：ELEMENTAL IMPACT与亚马逊、谷歌、Meta公司和微软共同启动数据中心创新计划。",
+          "url": "https://flash.jin10.com/detail/20260527173132501800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         }
       ]
     }
