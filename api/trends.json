@@ -1,39 +1,22 @@
 {
-  "generated_at": "2026-05-27T22:31:30.136966+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-05-28T02:02:28.882809+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "华为 “韬定律”：国产芯片的DeepSeek 时刻！",
-          "url": "https://wallstreetcn.com/articles/3773150",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 08时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：ELEMENTAL IMPACT与亚马逊、谷歌、Meta公司和微软共同启动数据中心创新计划。",
-          "url": "https://flash.jin10.com/detail/20260527173132501800",
+          "title": "OpenAI在美国中期选举前部署网络安全及虚假信息防御措施。",
+          "url": "https://flash.jin10.com/detail/20260528013305878800",
           "source": "金十数据",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时03分"
+          "time_info": "02时02分"
         }
       ]
     }
