@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T16:46:16.650863+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-05-28T20:33:31.106696+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3773316",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 20时33分]"
         },
         {
           "title": "DeepSeek崩了",
