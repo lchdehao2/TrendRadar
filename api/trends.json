@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T00:46:07.664656+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-30T03:34:25.387674+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3773389",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 03时34分]"
         },
         {
           "title": "OpenAI确认推出Rosalind BioDefense Program。",
@@ -25,7 +26,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
         }
@@ -43,8 +44,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 03时34分]"
         }
       ]
     }
