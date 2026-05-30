@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T03:25:02.688887+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-05-31T05:05:18.854541+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时05分]"
         }
       ]
     },
@@ -29,11 +29,12 @@
           "url": "https://wallstreetcn.com/livenews/3111808",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 05时05分]"
         }
       ]
     }
