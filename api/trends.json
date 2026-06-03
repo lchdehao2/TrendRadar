@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T02:49:47.086594+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-04T05:54:34.094646+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2045220633466725057",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 05时54分]"
         },
         {
           "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
@@ -26,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 05时54分]"
         }
       ]
     },
@@ -43,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 05时54分]"
         },
         {
           "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
@@ -54,8 +55,25 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 05时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
+          "url": "https://flash.jin10.com/detail/20260604051716270800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时49分"
+          "time_info": "05时54分"
         }
       ]
     }
