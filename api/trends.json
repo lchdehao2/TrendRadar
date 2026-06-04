@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T03:25:36.370173+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-06-05T05:45:55.538810+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 05时45分]"
         },
         {
           "title": "Gemini 美国豆包",
