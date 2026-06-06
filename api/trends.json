@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T15:51:45.589910+08:00",
-  "total_titles_processed": 903,
+  "generated_at": "2026-06-06T18:10:14.428428+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
@@ -95,6 +95,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时57分 ~ 18时10分]"
+        },
+        {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
           "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
@@ -104,18 +117,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时04分 ~ 08时12分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 15时51分]"
         }
       ]
     }
