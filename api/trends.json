@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T12:58:05.776964+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-06-06T15:51:45.589910+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "url": "https://www.cls.cn/detail/2392502",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[12时57分 ~ 15时51分]"
         },
         {
           "title": "谷歌与SpaceX签署协议 计划以每月9.2亿美元的价格购买算力",
@@ -83,7 +84,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         }
@@ -109,11 +110,12 @@
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[12时57分 ~ 15时51分]"
         }
       ]
     }
