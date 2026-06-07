@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T02:08:54.074459+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-06-08T04:17:15.449188+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时17分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -27,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时17分]"
         }
       ]
     },
@@ -45,8 +46,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时17分]"
         }
       ]
     }
