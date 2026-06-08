@@ -1,84 +1,22 @@
 {
-  "generated_at": "2026-06-08T19:06:23.194247+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-06-09T00:02:51.562628+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
-          "url": "https://www.cls.cn/detail/2392919",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
-          "title": "DeepSeek完成首轮外部融资",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%8C%E6%88%90%E9%A6%96%E8%BD%AE%E5%A4%96%E9%83%A8%E8%9E%8D%E8%B5%84&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
-          "url": "https://www.zhihu.com/question/2046639064917586455",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 08时14分]"
-        },
-        {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 08时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
-          "url": "https://wallstreetcn.com/articles/3774034",
-          "source": "华尔街见闻",
+          "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            10,
-            8
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 13时56分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     }
