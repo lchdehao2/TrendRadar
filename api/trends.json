@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T11:58:37.534878+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-06-09T15:58:33.326186+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,30 @@
           "time_info": "[05时54分 ~ 07时15分]"
         },
         {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 15时58分]"
+        },
+        {
+          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
+          "url": "https://www.cls.cn/detail/2394212",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 15时58分]"
+        },
+        {
           "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
           "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
           "source": "澎湃新闻",
@@ -63,17 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
-        },
-        {
-          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
-          "url": "https://www.cls.cn/detail/2394212",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
         },
         {
           "title": "OpenAI已提交IPO申请",
@@ -98,24 +111,13 @@
           "time_info": "05时54分"
         },
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
           "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
           "url": "https://www.cls.cn/detail/2394236",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -185,11 +187,24 @@
           "url": "https://www.zhihu.com/question/2047324900080051711",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 15时58分]"
+        },
+        {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 15时58分]"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果的私有云将使用三款由苹果自主研发的AI模型，这些模型是基于其与谷歌的合作开发的。",
@@ -201,17 +216,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        },
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：（谈苹果全新智能功能）我们的系统并非基于谷歌搜索。",
@@ -261,7 +265,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek开招土木老哥：自建GW级数据中心",
@@ -270,9 +274,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "黄仁勋让出市场 DeepSeek买下昇腾",
+          "url": "https://www.toutiao.com/trending/7649233186517421604/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         }
       ]
     }
