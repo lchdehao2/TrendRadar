@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T17:02:59.328831+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-06-12T20:58:01.962574+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时19分 ~ 12时25分]"
+        },
+        {
+          "title": "OpenAI被逼入价格战？企业都学聪明了：中国模型“极致性价比”！",
+          "url": "https://www.cls.cn/detail/2398139",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
         },
         {
           "title": "高盛：SpaceX、OpenAI等超级IPO不会终结AI牛市",
@@ -44,9 +55,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 20时58分]"
         }
       ]
     }
