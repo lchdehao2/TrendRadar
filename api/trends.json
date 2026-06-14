@@ -1,42 +1,8 @@
 {
-  "generated_at": "2026-06-14T23:09:34.636785+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-06-15T01:24:42.879554+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 23时09分]"
-        },
-        {
-          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
-          "url": "https://wallstreetcn.com/articles/3774577",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 13时55分]"
-        }
-      ]
-    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
@@ -49,8 +15,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 23时09分]"
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
+          "url": "https://www.cls.cn/detail/2399163",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     }
