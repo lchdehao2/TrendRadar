@@ -1,39 +1,44 @@
 {
-  "generated_at": "2026-06-15T18:58:40.064088+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-06-16T00:21:56.444662+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
-          "url": "https://wallstreetcn.com/articles/3774610",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时24分 ~ 12时55分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
+          "title": "OpenAI承诺在2026年对与AI相关的非营利问题投资5000万美元。",
+          "url": "https://wallstreetcn.com/livenews/3119785",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时13分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "美法官驳回xAI指控OpenAI窃取商业机密诉讼",
+          "url": "https://flash.jin10.com/detail/20260616000047052800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "一位美国联邦法官驳回了埃隆·马斯克旗下人工智能公司xAI提起的诉讼，该诉讼指控竞争对手OpenAI窃取了其商业机密。",
+          "url": "https://flash.jin10.com/detail/20260615235834841800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         }
       ]
     }
