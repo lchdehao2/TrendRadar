@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T17:19:49.937215+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-06-18T21:32:28.643100+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 17时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 21时32分]"
         },
         {
           "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
@@ -53,11 +54,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 17时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 21时32分]"
         }
       ]
     }
