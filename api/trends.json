@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T15:13:55.525961+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-06-19T20:12:22.921615+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
@@ -26,7 +26,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         }
@@ -44,11 +44,12 @@
             12,
             13,
             14,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 15时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 20时12分]"
         },
         {
           "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
