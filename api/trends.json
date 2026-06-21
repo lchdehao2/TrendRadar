@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T08:13:43.342850+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-06-21T14:08:26.041664+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
         },
@@ -29,6 +29,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 08时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
+          "url": "https://flash.jin10.com/detail/20260621120212050800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         }
       ]
     },
