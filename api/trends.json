@@ -1,82 +1,22 @@
 {
-  "generated_at": "2026-06-21T23:58:08.903981+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-06-22T01:47:13.999065+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌 Gemini 负责人 NoamShazeer 赴 OpenAI，对两家公司有何影响？",
-          "url": "https://www.zhihu.com/question/2050866813181994242",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
-          "url": "https://wallstreetcn.com/articles/3775105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 08时13分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            9,
-            5,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时08分 ~ 23时58分]"
-        },
-        {
-          "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
-          "url": "https://flash.jin10.com/detail/20260621120212050800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek估值接近4000亿元",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%B0%E5%80%BC%E6%8E%A5%E8%BF%914000%E4%BA%BF%E5%85%83%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 01时47分]"
         }
       ]
     }
