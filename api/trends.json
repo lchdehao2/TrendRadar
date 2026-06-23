@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T17:52:06.429170+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-06-23T20:37:36.691905+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
@@ -75,11 +75,12 @@
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 20时37分]"
         },
         {
           "title": "DeepSeek新部门疯狂招人，负责人否认“不招外国人”",
@@ -88,7 +89,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         }
