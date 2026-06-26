@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T13:13:03.995887+08:00",
-  "total_titles_processed": 830,
+  "generated_at": "2026-06-26T17:36:18.104089+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI倾向于等到2027年再IPO。（纽约时报）",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时42分]"
+        },
+        {
+          "title": "被SpaceX大跌吓退了？OpenAI据传考虑推迟IPO计划 力争万亿美元估值",
+          "url": "https://www.cls.cn/detail/2409706",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "报道：OpenAI倾向于等到2027年再进行IPO",
@@ -198,11 +209,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 17时36分]"
         },
         {
           "title": "DeepSeek大规模招聘",
