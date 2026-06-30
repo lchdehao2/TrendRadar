@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T17:48:40.716631+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-06-30T20:14:17.938782+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://www.zhihu.com/question/2055040930516824522",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 20时14分]"
         },
         {
           "title": "DeepSeek启动成立来最大规模招聘",
@@ -77,11 +78,12 @@
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时10分 ~ 17时48分]"
+          "appearance_count": 4,
+          "time_info": "[08时10分 ~ 20时14分]"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
