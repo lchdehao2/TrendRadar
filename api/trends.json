@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T13:09:28.020538+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-06-30T17:48:40.716631+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
@@ -20,6 +20,17 @@
           "time_info": "[01时42分 ~ 04时06分]"
         },
         {
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
+        },
+        {
           "title": "DeepSeek启动成立来最大规模招聘",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%AF%E5%8A%A8%E6%88%90%E7%AB%8B%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98",
           "source": "百度热搜",
@@ -32,6 +43,18 @@
           "time_info": "[01时42分 ~ 04时06分]"
         },
         {
+          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
+          "url": "https://wallstreetcn.com/articles/3775761",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 17时48分]"
+        },
+        {
           "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
           "url": "https://www.cls.cn/detail/2412167",
           "source": "财联社热门",
@@ -42,17 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时10分 ~ 13时09分]"
-        },
-        {
-          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
-          "url": "https://wallstreetcn.com/articles/3775761",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时09分"
         }
       ]
     },
@@ -68,8 +80,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时10分 ~ 13时09分]"
+          "appearance_count": 3,
+          "time_info": "[08时10分 ~ 17时48分]"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
