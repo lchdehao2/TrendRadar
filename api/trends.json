@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T20:41:18.998202+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-07-01T23:46:50.326100+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -30,6 +30,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "谷歌云确认在荷兰数据保护影响评估获得批准后，将为欧盟公共部门组织提供更安全的选择。",
+          "url": "https://flash.jin10.com/detail/20260701231456267800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "谷歌(GOOG.O)：发布适用于macOS的Gemini Spark，并扩展了应用程序集成。",
           "url": "https://flash.jin10.com/detail/20260701050716207800",
           "source": "金十数据",
@@ -44,7 +55,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
@@ -58,6 +69,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时02分 ~ 08时12分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
+          "url": "https://www.zhihu.com/question/2054320593491715458",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         }
       ]
     },
