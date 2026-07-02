@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T05:14:40.796018+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-07-03T07:13:16.459810+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 07时13分]"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
@@ -27,11 +28,12 @@
           "ranks": [
             19,
             13,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 07时13分]"
         },
         {
           "title": "出现性能下降问题 DeepSeek回应",
@@ -40,11 +42,12 @@
           "ranks": [
             25,
             17,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 07时13分]"
         }
       ]
     },
@@ -89,8 +92,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "特朗普避谈政府是否入股OpenAI 但强调在英特尔的持股",
+          "url": "https://flash.jin10.com/detail/20260703061710084800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
         {
           "title": "传特朗普政府未与Anthropic讨论入股 OpenAI曾涉5%股权提议",
           "url": "https://flash.jin10.com/detail/20260703004456845800",
