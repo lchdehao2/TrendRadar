@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T12:18:03.152696+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-07-08T15:32:52.668457+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -86,11 +86,12 @@
           "ranks": [
             9,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 12时18分]"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 15时32分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -138,7 +139,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
