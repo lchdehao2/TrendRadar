@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T11:44:52.073853+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-07-10T15:41:07.558015+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI高管Fidji Simo将卸任",
@@ -41,13 +41,36 @@
           "time_info": "07时17分"
         },
         {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 15时41分]"
+        },
+        {
+          "title": "如何看待 Codex 与 ChatGPT 合并，实际使用体验有什么变化？",
+          "url": "https://www.zhihu.com/question/2058849029027632241",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 15时41分]"
+        },
+        {
           "title": "Codex并入ChatGPT桌面端",
           "url": "https://search.bilibili.com/all?keyword=Codex%E5%B9%B6%E5%85%A5ChatGPT%E6%A1%8C%E9%9D%A2%E7%AB%AF",
           "source": "bilibili 热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         },
@@ -61,17 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
         },
         {
           "title": "OpenAI正式推出GPT-5.6系列模型",
