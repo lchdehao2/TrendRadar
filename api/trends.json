@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T15:41:07.558015+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-07-10T19:09:33.751405+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 19时09分]"
         },
         {
           "title": "据华尔街日报：OpenAI高管Fidji Simo将辞职，未来将成为该公司兼职顾问。",
@@ -39,18 +52,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 15时41分]"
         },
         {
           "title": "如何看待 Codex 与 ChatGPT 合并，实际使用体验有什么变化？",
