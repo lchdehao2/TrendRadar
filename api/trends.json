@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T19:15:19.596454+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-07-12T21:37:25.681286+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,19 @@
           "time_info": "[04时56分 ~ 08时02分]"
         },
         {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时06分 ~ 21时37分]"
+        },
+        {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
           "url": "https://m.thepaper.cn/newsDetail_forward_33566535",
           "source": "澎湃新闻",
@@ -31,18 +44,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时48分 ~ 17时07分]"
-        },
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时06分 ~ 19时15分]"
         }
       ]
     },
