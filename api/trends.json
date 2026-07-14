@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T14:16:09.557622+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-07-14T17:09:00.809640+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2059349642496710015",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 17时09分]"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
@@ -52,11 +53,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 14时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 17时09分]"
         }
       ]
     }
