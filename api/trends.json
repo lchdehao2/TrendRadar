@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T06:06:34.144746+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-07-16T08:03:22.595124+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
@@ -47,7 +47,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         }
@@ -80,24 +80,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 08时03分]"
+        },
+        {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
           "ranks": [
             7,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 06时06分]"
-        },
-        {
-          "title": "DeepSeek工资待遇太恐怖了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            20
           ],
           "is_new": false,
           "appearance_count": 5,
