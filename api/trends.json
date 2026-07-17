@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T10:58:00.841967+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2026-07-17T13:48:47.511828+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2428944",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 10时58分]"
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 13时48分]"
         },
         {
           "title": "谷歌A跌幅扩大至2.7%。",
@@ -205,11 +206,12 @@
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 10时58分]"
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 13时48分]"
         },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
@@ -234,11 +236,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 10时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 13时48分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
