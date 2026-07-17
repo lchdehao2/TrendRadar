@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T20:13:58.772538+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2026-07-17T22:47:12.013001+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
@@ -202,8 +202,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 20时13分]"
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 22时47分]"
         },
         {
           "title": "OpenAI董事长：IPO时间暂无最新消息",
