@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T00:28:21.466423+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-21T02:56:52.436384+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/2059057378591613636",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 02时56分]"
         },
         {
           "title": "为什么豆包没有被 DeepSeek「斩杀」？",
           "url": "https://www.zhihu.com/question/2061575313973416591",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 02时56分]"
         }
       ]
     }
