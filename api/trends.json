@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T19:50:44.968730+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2026-07-21T22:03:35.854555+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,19 @@
           "time_info": "[06时04分 ~ 08时01分]"
         },
         {
+          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
+          "url": "https://wallstreetcn.com/articles/3777510",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 22时03分]"
+        },
+        {
           "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
           "url": "https://www.zhihu.com/question/2062579631564093084",
           "source": "知乎",
@@ -58,18 +71,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时33分 ~ 19时50分]"
-        },
-        {
-          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
-          "url": "https://wallstreetcn.com/articles/3777510",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 19时50分]"
         }
       ]
     },
@@ -83,11 +84,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 19时50分]"
+          "appearance_count": 5,
+          "time_info": "[11时35分 ~ 22时03分]"
         },
         {
           "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
@@ -118,6 +120,21 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            8,
+            17,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时35分 ~ 22时03分]"
+        },
+        {
           "title": "OpenAI高管炮轰Kimi",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%AB%98%E7%AE%A1%E7%82%AE%E8%BD%B0Kimi",
           "source": "bilibili 热搜",
@@ -127,20 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
-        },
-        {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            8,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 19时50分]"
         },
         {
           "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
