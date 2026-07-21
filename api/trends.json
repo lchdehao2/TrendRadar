@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-22T06:08:09.903620+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-07-22T07:59:07.089195+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 8,
       "titles": [
+        {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 07时59分]"
+        },
         {
           "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
           "url": "https://flash.jin10.com/detail/20260722034543375800",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        },
-        {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 06时08分]"
         },
         {
           "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
@@ -91,7 +91,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         }
@@ -99,7 +99,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：Gemini 3.6 Flash具备快速理解上下文能力，可帮助用户打造专属创意工具。",
@@ -122,6 +122,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 04时21分]"
+        },
+        {
+          "title": "谷歌财报前夜，德银力挺：别光盯着Capex，真正的惊喜可能来自谷歌云",
+          "url": "https://wallstreetcn.com/articles/3777555",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
         },
         {
           "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
@@ -168,11 +179,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 06时08分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 07时59分]"
         }
       ]
     }
