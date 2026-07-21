@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T06:05:07.156430+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-07-21T08:01:10.523326+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             15,
             14,
             12,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 08时01分]"
         },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
@@ -38,11 +39,12 @@
           "url": "https://www.zhihu.com/question/2061868472049652679",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时04分 ~ 06时05分]"
+          "appearance_count": 4,
+          "time_info": "[06时04分 ~ 08时01分]"
         }
       ]
     },
@@ -57,7 +59,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         }
