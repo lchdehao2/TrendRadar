@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T05:10:03.955268+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-07-24T07:01:58.363697+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 05时10分]"
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 07时01分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -26,8 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 05时10分]"
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 07时01分]"
+        },
+        {
+          "title": "AI每赚1块钱，谷歌花出去2块",
+          "url": "https://wallstreetcn.com/articles/3777748",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 07时01分]"
         },
         {
           "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
@@ -36,22 +48,12 @@
           "ranks": [
             11,
             12,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 05时10分]"
-        },
-        {
-          "title": "AI每赚1块钱，谷歌花出去2块",
-          "url": "https://wallstreetcn.com/articles/3777748",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 05时10分]"
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 07时01分]"
         },
         {
           "title": "美国科技股七巨头指数收跌4.8%，市值蒸发7970亿美元。 成分股特斯拉与谷歌母公司Alphabet市值在业绩报告发布次日分别收跌14.52%和7.13%，合计蒸发（至少）数千亿美元。",
@@ -60,7 +62,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
         },
