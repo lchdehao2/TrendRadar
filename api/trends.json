@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-24T18:25:36.930509+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-07-24T20:23:50.869893+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 11,
       "titles": [
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            17,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时35分 ~ 20时23分]"
+        },
         {
           "title": "菲尔兹奖得主谈加入OpenAI",
           "url": "https://search.bilibili.com/all?keyword=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E8%B0%88%E5%8A%A0%E5%85%A5OpenAI",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
-          "url": "https://www.zhihu.com/question/2063832242242184073",
-          "source": "知乎",
-          "ranks": [
-            17,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时35分 ~ 18时25分]"
         },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -53,6 +54,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 03时25分]"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时23分]"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -119,17 +132,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         }
       ]
     },
@@ -264,11 +266,12 @@
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BA%A0%E7%BB%93%E4%BA%8610%E7%A7%92%E8%BF%98%E6%98%AF%E5%86%B3%E5%AE%9A%E8%B0%84%E5%AA%9A&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            16
+            16,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时23分]"
         },
         {
           "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",
