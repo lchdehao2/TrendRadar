@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T16:42:28.578708+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-07-28T19:22:38.452132+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
@@ -15,22 +15,24 @@
             15,
             16,
             21,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时46分 ~ 16时42分]"
+          "appearance_count": 12,
+          "time_info": "[01时46分 ~ 19时22分]"
         },
         {
           "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
           "url": "https://wallstreetcn.com/articles/3778049",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 19时22分]"
         },
         {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
@@ -56,11 +58,12 @@
           "ranks": [
             1,
             7,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时46分 ~ 16时42分]"
+          "appearance_count": 12,
+          "time_info": "[01时46分 ~ 19时22分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
