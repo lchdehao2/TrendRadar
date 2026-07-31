@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T20:05:51.514965+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-07-31T23:23:52.452293+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时40分 ~ 07时12分]"
+        },
+        {
+          "title": "OpenAI：通过Codex账户完成的工作，占每周输出Tokens总量的99.8%。",
+          "url": "https://flash.jin10.com/detail/20260731230749877800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
@@ -42,6 +53,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 14时49分]"
+        },
+        {
+          "title": "OpenAI：我们的模型现在覆盖超过两百万家企业。",
+          "url": "https://flash.jin10.com/detail/20260731230540746800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "OpenAI：我们的模型现在拥有超过十亿活跃用户。",
+          "url": "https://flash.jin10.com/detail/20260731230518925800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
@@ -124,7 +157,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
@@ -133,7 +166,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         },
@@ -146,19 +179,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 20时05分]"
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 23时23分]"
         },
         {
           "title": "DeepSeekV4能力在GLM5.2和KimiK3之间",
           "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E8%83%BD%E5%8A%9B%E5%9C%A8GLM5.2%E5%92%8CKimiK3%E4%B9%8B%E9%97%B4&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时05分 ~ 23时23分]"
+        },
+        {
+          "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
+          "url": "https://www.zhihu.com/question/2066526486505461299",
+          "source": "知乎",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时05分"
+          "time_info": "23时23分"
         },
         {
           "title": "DeepSeek：DeepSeek-V4-Flash正式版API上线公测 DeepSeek-V4-Pro正式版将会尽快发布",
@@ -183,13 +228,24 @@
           "time_info": "14时49分"
         },
         {
+          "title": "DeepSeek V4 Flash正式版强在哪",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "DeepSeek-V4-Flash正式版上线",
           "url": "https://www.baidu.com/s?wd=DeepSeek-V4-Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
           "source": "百度热搜",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时05分"
         }
