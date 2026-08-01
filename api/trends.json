@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T21:37:42.554751+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-08-01T23:05:08.959770+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时09分 ~ 21时37分]"
+          "appearance_count": 6,
+          "time_info": "[17时09分 ~ 23时05分]"
         },
         {
           "title": "DeepSeek（官方 API 接入 Agent）居然会对用户说「我去吃饭了」、「我去睡了」，为啥会这样？",
@@ -69,6 +70,18 @@
           "time_info": "07时06分"
         },
         {
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 23时05分]"
+        },
+        {
           "title": "实测DeepSeek V4 Flash",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
           "source": "bilibili 热搜",
@@ -107,18 +120,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时44分 ~ 07时06分]"
-        },
-        {
-          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
-          "url": "https://www.zhihu.com/question/2066595452238160814",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时37分]"
         },
         {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
@@ -180,7 +181,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
@@ -229,6 +230,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 07时06分]"
+        },
+        {
+          "title": "OpenAI 价格战",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%20%E4%BB%B7%E6%A0%BC%E6%88%98&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
