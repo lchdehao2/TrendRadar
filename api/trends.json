@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T19:21:07.220327+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-08-01T21:37:42.554751+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时09分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时09分 ~ 21时37分]"
         },
         {
           "title": "DeepSeek（官方 API 接入 Agent）居然会对用户说「我去吃饭了」、「我去睡了」，为啥会这样？",
@@ -109,6 +109,18 @@
           "time_info": "[01时44分 ~ 07时06分]"
         },
         {
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时37分]"
+        },
+        {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
           "url": "https://www.zhihu.com/question/2066526486505461299",
           "source": "知乎",
@@ -119,17 +131,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 03时41分]"
-        },
-        {
-          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
-          "url": "https://www.zhihu.com/question/2066595452238160814",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
         },
         {
           "title": "DeepSeek V4 Flash对比",
@@ -191,8 +192,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 21时37分]"
         },
         {
           "title": "如何评价OpenAI的数学能力",
