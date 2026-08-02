@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-02T19:20:12.176942+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-08-02T21:38:01.984167+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "印度韩国突然宣称有媲美DeepSeek大模型",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%9F%A9%E5%9B%BD%E7%AA%81%E7%84%B6%E5%AE%A3%E7%A7%B0%E6%9C%89%E5%AA%B2%E7%BE%8EDeepSeek%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时12分 ~ 21时38分]"
+        },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
           "url": "https://www.zhihu.com/question/2066595452238160814",
@@ -20,16 +33,15 @@
           "time_info": "[01时05分 ~ 11时45分]"
         },
         {
-          "title": "印度韩国突然宣称有媲美DeepSeek大模型",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%9F%A9%E5%9B%BD%E7%AA%81%E7%84%B6%E5%AE%A3%E7%A7%B0%E6%9C%89%E5%AA%B2%E7%BE%8EDeepSeek%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "DeepSeek又发重磅更新",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%88%E5%8F%91%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            9
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时12分 ~ 19时20分]"
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
@@ -73,8 +85,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时05分 ~ 19时20分]"
+          "appearance_count": 14,
+          "time_info": "[01时05分 ~ 21时38分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
