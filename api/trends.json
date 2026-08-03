@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T20:31:12.363498+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-08-03T23:47:39.744863+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -35,6 +35,29 @@
           "time_info": "[01时05分 ~ 06时06分]"
         },
         {
+          "title": "DeepSeek 斩杀线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "DeepSeek一天消耗了8万亿",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时30分 ~ 23时47分]"
+        },
+        {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
           "url": "https://www.zhihu.com/question/2065010626171293829",
           "source": "知乎",
@@ -52,22 +75,12 @@
           "url": "https://www.zhihu.com/question/2067512422555029717",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 20时31分]"
-        },
-        {
-          "title": "DeepSeek一天消耗了8万亿",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 20时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时30分 ~ 23时47分]"
         },
         {
           "title": "DeepSeek模型单日吞下8万亿Token",
@@ -125,11 +138,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 20时31分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 23时47分]"
         },
         {
           "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
