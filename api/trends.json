@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T07:05:02.223087+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-08-06T10:54:58.499478+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌首席科学家Jeff Dean：明天将是我在谷歌工作的最后一天。",
@@ -47,9 +47,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "谷歌首席科学家Jeff Dean离职创业",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6Jeff+Dean%E7%A6%BB%E8%81%8C%E5%88%9B%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         },
         {
           "title": "据华尔街日报，谷歌公司首席科学家Jeff Dean离职，将创办自己的AI公司。 谷歌母公司Alphabet/谷歌A（GOOGL）跌幅扩大之1.5%，刷新日低。",
@@ -110,7 +121,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -140,7 +151,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "梁文锋会不会成为中国AI里程碑人物？",
@@ -164,6 +175,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 01时45分]"
+        },
+        {
+          "title": "DeepSeek API即将大幅涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务定价，预计涨幅较大",
+          "url": "https://wallstreetcn.com/livenews/3145744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     }
