@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T05:43:35.942851+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-08-08T06:41:33.014811+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -110,11 +110,12 @@
             8,
             22,
             23,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时41分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -124,19 +125,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时41分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时43分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时41分]"
         }
       ]
     },
@@ -153,8 +155,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时41分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
