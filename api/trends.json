@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T17:05:16.645331+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-08-07T18:57:22.571467+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时43分 ~ 17时05分]"
+          "appearance_count": 8,
+          "time_info": "[08时43分 ~ 18时57分]"
         },
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
@@ -39,11 +39,12 @@
             14,
             18,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时43分 ~ 17时05分]"
+          "appearance_count": 8,
+          "time_info": "[08时43分 ~ 18时57分]"
         },
         {
           "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
@@ -76,8 +77,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时22分 ~ 17时05分]"
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 18时57分]"
+        },
+        {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时04分 ~ 18时57分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -90,17 +102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时43分 ~ 11时53分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 17时05分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -159,7 +160,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
         },
