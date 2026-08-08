@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T09:55:48.151961+08:00",
-  "total_titles_processed": 749,
+  "generated_at": "2026-08-08T11:38:05.558248+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 09时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时38分 ~ 11时38分]"
         },
         {
           "title": "OpenAI：已在Astra的所有智能体应用中实施针对高风险行为和失配问题的全面监控。根据目前针对Astra模型的准备框架评估结果，无法排除其具备关键网络能力的可能性。将与相关政府机构及选定的人工智能安全组织合作，对Astra的能力进行测试。",
@@ -151,8 +152,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时47分 ~ 09时55分]"
+          "appearance_count": 8,
+          "time_info": "[04时47分 ~ 11时38分]"
         },
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
@@ -161,9 +162,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 11时38分]"
         }
       ]
     },
@@ -178,11 +179,12 @@
           "ranks": [
             18,
             19,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 09时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 11时38分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
