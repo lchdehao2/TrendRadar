@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T15:56:26.491611+08:00",
-  "total_titles_processed": 1055,
+  "generated_at": "2026-08-08T16:48:36.077220+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
@@ -126,8 +126,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时55分 ~ 15时56分]"
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 16时48分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -157,8 +157,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时47分 ~ 15时56分]"
+          "appearance_count": 13,
+          "time_info": "[04时47分 ~ 16时48分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -199,11 +199,12 @@
             21,
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时01分 ~ 15时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时01分 ~ 16时48分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
