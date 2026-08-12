@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T12:52:07.780494+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-08-12T16:22:07.028214+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
@@ -79,7 +79,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
@@ -103,7 +103,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -118,6 +118,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时49分 ~ 07时47分]"
+        },
+        {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
