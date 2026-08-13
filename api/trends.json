@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-13T12:55:46.345547+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-08-13T14:22:51.942356+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 18,
       "titles": [
+        {
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时48分 ~ 14时22分]"
+        },
         {
           "title": "DeepSeek V4 Pro正式版上线",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
@@ -31,17 +42,6 @@
           "time_info": "[02时02分 ~ 06时46分]"
         },
         {
-          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时48分 ~ 12时55分]"
-        },
-        {
           "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
           "url": "https://www.cls.cn/detail/2452920",
           "source": "财联社热门",
@@ -50,8 +50,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时20分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[10时20分 ~ 14时22分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时20分 ~ 14时22分]"
         },
         {
           "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
@@ -75,18 +88,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时02分 ~ 07时48分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时20分 ~ 12时55分]"
         },
         {
           "title": "DeepSeek重磅更新 V4Pro正式版上线",
@@ -215,7 +216,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
@@ -225,6 +226,18 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
+        {
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时46分 ~ 14时22分]"
+        },
         {
           "title": "消息人士称，上周谷歌(GOOG.O)高管召开全体员工大会，讨论人工智能部门重组事宜，以回应员工的担忧。",
           "url": "https://flash.jin10.com/detail/20260813013509723800",
@@ -246,18 +259,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
-          "url": "https://wallstreetcn.com/articles/3779285",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时46分 ~ 12时55分]"
         },
         {
           "title": "谷歌高管据悉上周召开“全员”会议，以回应员工关切，解决AI部门重组问题。谷歌联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
@@ -289,7 +290,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         }
