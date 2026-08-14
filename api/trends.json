@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T16:20:12.786783+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-08-14T18:08:34.178090+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时02分 ~ 16时20分]"
+          "appearance_count": 15,
+          "time_info": "[02时02分 ~ 18时08分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -42,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时02分 ~ 16时20分]"
+          "appearance_count": 15,
+          "time_info": "[02时02分 ~ 18时08分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -72,6 +73,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[05时51分 ~ 14时18分]"
+        },
+        {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时46分 ~ 18时08分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -115,18 +129,6 @@
           "time_info": "[02时02分 ~ 06时49分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时46分 ~ 16时20分]"
-        },
-        {
           "title": "DeepSeek发布调价公告",
           "url": "https://www.douyin.com/hot/2608709",
           "source": "抖音",
@@ -155,6 +157,19 @@
           "time_info": "[02时02分 ~ 07时47分]"
         },
         {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时17分 ~ 18时08分]"
+        },
+        {
           "title": "一次看懂DeepSeek新模型",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
@@ -175,18 +190,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时17分 ~ 10时18分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时17分 ~ 16时20分]"
         },
         {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
@@ -257,8 +260,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 18时08分]"
         },
         {
           "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
@@ -319,8 +322,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "OpenAI首席营收官任职不到一年离职",
+          "url": "https://wallstreetcn.com/livenews/3149682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
         {
           "title": "OpenAI商业化加速：年化收入超400亿美元，7月单月增长超过20%",
           "url": "https://flash.jin10.com/detail/20260814160403026800",
@@ -328,7 +342,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -367,6 +381,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "据Axios：OpenAI在IPO前进行高管更换。",
+          "url": "https://flash.jin10.com/detail/20260814173053117800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
