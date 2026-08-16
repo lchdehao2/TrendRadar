@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T18:28:17.045738+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-08-16T19:25:43.712332+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 18时28分]"
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 19时25分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时38分 ~ 18时28分]"
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 19时25分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时37分 ~ 18时28分]"
+          "appearance_count": 6,
+          "time_info": "[13时37分 ~ 19时25分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -106,11 +106,12 @@
           "ranks": [
             5,
             10,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时38分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 19时25分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -148,11 +149,12 @@
           "ranks": [
             4,
             9,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时38分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 19时25分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -163,8 +165,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 19时25分]"
+        },
+        {
+          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
+          "url": "https://wallstreetcn.com/articles/3779522",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时47分 ~ 18时28分]"
+          "time_info": "[18时27分 ~ 19时25分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -177,17 +191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时38分 ~ 14时47分]"
-        },
-        {
-          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
-          "url": "https://wallstreetcn.com/articles/3779522",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
         }
       ]
     }
