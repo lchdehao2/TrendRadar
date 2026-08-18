@@ -1,53 +1,77 @@
 {
-  "generated_at": "2026-08-18T12:41:02.783342+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-08-19T02:55:36.171117+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
-          "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
-          "url": "https://www.cls.cn/detail/2456537",
-          "source": "财联社热门",
+          "title": "OpenAI在Hugging Face数据泄露事件后调整人工智能安全机制。",
+          "url": "https://wallstreetcn.com/livenews/3151272",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            13
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 12时41分]"
+          "appearance_count": 1,
+          "time_info": "02时55分"
         },
         {
-          "title": "OpenAI锁定4.25GW数据中心容量",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%94%81%E5%AE%9A4.25GW%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%AE%B9%E9%87%8F",
-          "source": "bilibili 热搜",
+          "title": "OpenAI强化AI安全防护，严防模型“失控”",
+          "url": "https://flash.jin10.com/detail/20260819022528067800",
+          "source": "金十数据",
           "ranks": [
-            8
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
         {
-          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
-          "url": "https://www.zhihu.com/question/2072103596481683649",
-          "source": "知乎",
+          "title": "OpenAI：最大规模计划中的前沿强化学习训练仍处于暂停状态，等待完成安全验证。",
+          "url": "https://flash.jin10.com/detail/20260819021358227800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8,
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时29分 ~ 11时53分]"
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "OpenAI：暂时放缓规模扩张步伐，包括暂停对最新部署模型进行强化学习训练，为期两周。",
+          "url": "https://flash.jin10.com/detail/20260819021328389800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "OpenAI：在Hugging Face事件发生后，我们暂停了研究集群中可能执行代码的前沿模型推理。",
+          "url": "https://flash.jin10.com/detail/20260819021019515800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "据Axios：OpenAI将在Hugging Face事件后正在重写其主要安全文件。",
+          "url": "https://flash.jin10.com/detail/20260819020813455800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         }
       ]
     }
