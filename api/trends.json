@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T07:27:46.190101+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2026-08-18T11:53:03.529626+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,29 @@
           "source": "知乎",
           "ranks": [
             9,
-            8
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时29分 ~ 11时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
+          "url": "https://www.cls.cn/detail/2456537",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时27分]"
+          "time_info": "[11时52分 ~ 11时53分]"
         }
       ]
     }
